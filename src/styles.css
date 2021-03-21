@@ -95,4 +95,6 @@ ul li {
   position: fixed;
   bottom: 10px;
   left: 10px;
+  color: #fff;
+  font-weight: bold;
 }
